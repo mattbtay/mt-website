@@ -158,7 +158,7 @@ $(document).ready(function() {
 
   $.vegas({
 
-    src:'img/bg-hdr.jpg'
+    src:'img/bg-mt.jpg'
 
   });
 
